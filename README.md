@@ -1,4 +1,4 @@
-# Office of Naval Research - DIALECT Project ![image](https://user-images.githubusercontent.com/68829206/151706924-cec657d8-e5b2-4c2f-97e2-e06c4b0e935a.png)
+# Office of Naval Research - DIALECT Project 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68829206/151706924-cec657d8-e5b2-4c2f-97e2-e06c4b0e935a.png"/>
 </p>
