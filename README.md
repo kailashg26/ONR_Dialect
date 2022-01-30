@@ -1,6 +1,6 @@
 <h1 align="center">Office of Naval Research - DIALECT Project </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68829206/151706924-cec657d8-e5b2-4c2f-97e2-e06c4b0e935a.png"/>
+  <img src="https://user-images.githubusercontent.com/68829206/151707111-784421c8-9567-4d21-9bc5-484aa5b23592.png"/>
 </p>
 
 ## Communication Protocols Customization via Feature DIAgnosis, Lacing, Elimination, Cross-grafting, and Trimming
