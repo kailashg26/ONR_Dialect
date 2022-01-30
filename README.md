@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/68829206/151707111-784421c8-9567-4d21-9bc5-484aa5b23592.png"/>
 </p>
 
-## Communication Protocols Customization via Feature DIAgnosis, Lacing, Elimination, Cross-grafting, and Trimming
+<h1 align="center">Communication Protocols Customization via Feature DIAgnosis, Lacing, Elimination, Cross-grafting, and Trimming </h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68829206/151620115-50a76a50-b9cc-4a4d-97af-d911bb4911eb.png"/>
 </p>
