@@ -1,4 +1,5 @@
-# Office of Naval Research - DIALECT Project
+# Office of Naval Research - DIALECT: ​
+## Communication Protocols Customization via Feature DIAgnosis, Lacing, Elimination, Cross-grafting, and Trimming​
 ![image](https://user-images.githubusercontent.com/68829206/151620115-50a76a50-b9cc-4a4d-97af-d911bb4911eb.png)
 
 # Motivation of this project
