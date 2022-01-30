@@ -4,6 +4,8 @@
    # Office of Naval Research - DIALECT Project 
 
 </p>
+
+<h1 align="center">Office of Naval Research - DIALECT Project </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68829206/151706924-cec657d8-e5b2-4c2f-97e2-e06c4b0e935a.png"/>
 </p>
