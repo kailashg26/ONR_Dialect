@@ -33,7 +33,7 @@ Password is space
     .
     ├── Papers                  # Papers submitted as part of the grant
     ├── Presentation_slides     # Presentation slides for the papers
-    ├── Report_PJR              # Feedback (answered by students)- Yfuzz & CustomPro
+    ├── Report_PJR              # Feedback (answered by the group)- Yfuzz & CustomPro
     ├── Yfuzz_CustomPro_PJR     # Yfuzz & CustomPro reports PJR Corps
     └── README.md               # All the links for papers, presentations, SSSS (TPCP) Material
 
