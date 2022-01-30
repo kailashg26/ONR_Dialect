@@ -2,6 +2,28 @@
 ## Communication Protocols Customization via Feature DIAgnosis, Lacing, Elimination, Cross-grafting, and Trimming
 ![image](https://user-images.githubusercontent.com/68829206/151620115-50a76a50-b9cc-4a4d-97af-d911bb4911eb.png)
 
+# Objectives and Problem Context
+    Software feature creep leads to:​
+
+    Growing system complexity​
+
+    Higher software bloat​
+
+    Increased attack surface​
+
+    Information leakage channels​
+
+​
+
+    Homogeneity and standardization of communication protocols can​
+
+    Provide economies of scale and simplify  logistics of deployment​
+
+    But also result in “mono-culture”​
+
+    ​
+
+    The goal of DIALECT is to create an automated tool that generates customized protocol binaries in large volume and in an unsupervised fashion.
 # Motivation of this project
 The implementations of network protocols are often "bloated" due to various users' needs and complex environment for deployment. The continual expansion of program features contribute to not only growing complexity but also increased the attack surface, making the maintenance of network protocol security very challenging.
 
