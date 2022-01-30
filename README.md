@@ -1,10 +1,3 @@
-
-<p align="center">
-
-   # Office of Naval Research - DIALECT Project 
-
-</p>
-
 <h1 align="center">Office of Naval Research - DIALECT Project </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68829206/151706924-cec657d8-e5b2-4c2f-97e2-e06c4b0e935a.png"/>
@@ -12,7 +5,9 @@
 
 
 ## Communication Protocols Customization via Feature DIAgnosis, Lacing, Elimination, Cross-grafting, and Trimming
+<p align="center">
 ![image](https://user-images.githubusercontent.com/68829206/151620115-50a76a50-b9cc-4a4d-97af-d911bb4911eb.png)
+</p>
 
 # Motivation of this project
 The implementations of network protocols are often "bloated" due to various users' needs and complex environment for deployment. The continual expansion of program features contribute to not only growing complexity but also increased the attack surface, making the maintenance of network protocol security very challenging. The goal of DIALECT is to create an automated tool that generates customized protocol binaries in large volume and in an unsupervised fashion.
