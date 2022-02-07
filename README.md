@@ -34,7 +34,7 @@ Password is space
 2. CustomPro: https://www2.seas.gwu.edu/~tlan/papers/CP_SC_2019.pdf
 3. Hunting garbage collection: https://www2.seas.gwu.edu/~tlan/papers/GC_FEAST_2020.pdf
 4. MPD: https://arxiv.org/pdf/2110.03798.pdf
-5. Verify-Pro:  https://arxiv.org/abs/2202.00500 (Submitted to Computers & Security Journal - in review)
+5. Verify-Pro:  https://arxiv.org/abs/2202.00500 
 6. DAMgate: https://www2.seas.gwu.edu/~tlan/papers/DG_FEAST_2017.pdf
 7. TOSS: https://www2.seas.gwu.edu/~tlan/papers/TOSS_FEAST_2018.pdf
 
