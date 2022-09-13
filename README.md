@@ -29,6 +29,15 @@ Password is space
 3. Custom pro vm - https://drive.google.com/drive/folders/1ONDJuIAKVTVUEzBUYJX5CUWoPleox83U?usp=sharing 
 4. Source code- CustomPro - https://github.com/yuroc0598/ProtocolCustomization/wiki/CustomPro
 
+# Papers - Conferences/ Journals
+1. yFuzz: Digital Threats: Research and Practice (DTRAP)
+2. CustomPro: EAI International Conference on Security and Privacy in Communication Networks (Securecomm 2019)
+3. Hunting garbage collection: Proceedings of the 2020 Workshop on Forming an Ecosystem Around Software Transformation (FEAST '20)
+4. MPD: EAI International Conference on Security and Privacy in Communication Networks (Securecomm 2021)
+5. Verify-Pro: Proceedings of the IEEE Military Communications Conference (MILCOM 2022)
+6. DAMgate: Proceedings of the 2017 Workshop on Forming an Ecosystem Around Software Transformation (FEAST '17)
+7. TOSS: Proceedings of the 2018 Workshop on Forming an Ecosystem Around Software Transformation (FEAST '18)
+
 # Papers
 1. yFuzz: https://github.com/yuroc0598/ProtocolCustomization/blob/master/Publications%26Slides/Publications/yfuzz.pdf
 2. CustomPro: https://www2.seas.gwu.edu/~tlan/papers/CP_SC_2019.pdf
