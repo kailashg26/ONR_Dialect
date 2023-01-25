@@ -20,6 +20,9 @@ In CustomPro, We adopt whole system emulation, dynamic tainting and symbolic exe
 # yFuzz
 We have designed a stateful protocol fuzzer that aims to efficiently locate the vulnerabilities residing deep in the stateful protocols.
 
+# MPD
+We have developed a reliable application-layer moving target defense tool via customized communication protocols and their dynamic management.
+
 # VMs- yFuzz, CustomPro, and MPD
 The VMs are ready to roll. Just open the VM using VMware and start to play. 
 Password is space
