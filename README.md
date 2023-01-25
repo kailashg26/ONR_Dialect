@@ -28,7 +28,7 @@ Password is space
 2. Source code- Yfuzz - https://github.com/yuroc0598/ProtocolCustomization/wiki/yFuzz
 3. Custom pro vm - https://drive.google.com/drive/folders/1ONDJuIAKVTVUEzBUYJX5CUWoPleox83U?usp=sharing 
 4. Source code- CustomPro - https://github.com/yuroc0598/ProtocolCustomization/wiki/CustomPro
-5. Source ode - MPD - https://github.com/ysmei97/MPD
+5. Source code - MPD - https://github.com/ysmei97/MPD
 
 # Papers - Conferences/ Journals
 1. yFuzz: Digital Threats: Research and Practice (DTRAP)
